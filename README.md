@@ -1,3 +1,3 @@
 # React Movie App
 
-- [Live](https://movie-app-m21.netlify.app/)
+- [Live](https://classy-movieapp.netlify.app/)
